@@ -1,2 +1,2 @@
 # Biological-computing-
-Fores Fire Simulation
+Forest Fire Simulation in computing. Python is used
